@@ -8,5 +8,4 @@ Skills: html/CSS/Bootstrap/ JS/react/
 - 💬 Ask me about web design and devalopment 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shSalman009)  
 
