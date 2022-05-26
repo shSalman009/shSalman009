@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Salman
-#### I am Web developer
+#### I am a Web developer
 
 
 Skills: html/CSS/Bootstrap/ JS/react    
