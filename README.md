@@ -1,11 +1,14 @@
-## Hi 👋, I'm Salman ### Front End Web Developer With React.js ## About ME : -
-🌱 I’m currently learning Back End (node.js + mongoDB) - 💬 Ask me about
-javaScript / react
+<h1 align="center">Hi there 👋, I'm Salman</h1>
+<h3 align="center">Front End Web Developer With React.js</h3>
 
+
+
+- 🌱 I’m currently learning **Back End (node.js + mongoDB)** - 💬 Ask me about
+**javaScript / react**
 <br />
 
 ## I can code with :
-<div align="center">
+<div align="left">
     <img
         style="margin: 10px"
         src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
@@ -35,7 +38,7 @@ javaScript / react
 <br />
 
 ## Connect me through :
-<div align="center">
+<div align="left">
     <a href="https://github.com/https://github.com/shSalman009" target="_blank">
         <img
         src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
