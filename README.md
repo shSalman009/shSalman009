@@ -1,39 +1,15 @@
 <h1 align="center">Hi there 👋, I'm Salman</h1>
 <h3 align="center">Front End Web Developer With React.js</h3>
 
-
-
 - 🌱 I’m currently learning **Back End (node.js + mongoDB)** - 💬 Ask me about
 **javaScript / react**
 <br />
 
 ## I can code with :
-<div align="left">
-    <img
-        style="margin: 10px"
-        src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
-        alt="HTML5"
-        height="25"
-    />
-    <img
-        style="margin: 10px"
-        src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
-        alt="CSS3"
-        height="25"
-    />
-    <img
-        style="margin: 10px"
-        src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
-        alt="JavaScript"
-        height="25"
-    />
-    <img
-        style="margin: 10px"
-        src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
-        alt="React"
-        height="25"
-    />
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <br />
 
@@ -89,7 +65,7 @@
 <br />
 
 ## Github Stats
-<div align="center">
+<div align="left">
     <img
         src="https://github-readme-stats.vercel.app/api?username=shSalman009&show_icons=true&count_private=true&hide_border=true"
         align="center"
