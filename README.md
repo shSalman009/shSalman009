@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Salman</h1>
 <h3 align="center">Front End Web Developer With React.js</h3>
 
-- 🌱 I’m currently learning **Back End (node.js + mongoDB)** - 💬 Ask me about
-**javaScript / react**
+- 🌱 I’m currently learning **Back End (node.js + mongoDB)**
+- 💬 Ask me about **javaScript / react**
 <br />
 
 ## I can code with :
@@ -64,23 +64,9 @@
 
 <br />
 
-## Github Stats
-<div align="left">
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=shSalman009&show_icons=true&count_private=true&hide_border=true"
-        align="center"
-    />
-</div>
-
-<br />
-
-<br />
-
-<div align="center">
-    <img
-        src="https://komarev.com/ghpvc/?username=shSalman009&&style=flat-square"
-        align="center"
-    />
-</div>
-
-<br />
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=shSalman009&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=shSalman009&theme=radical&hide_border=false)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shSalman009&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=shSalman009&icon=0&color=0)](https://visitcount.itsvg.in)
