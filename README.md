@@ -3,8 +3,8 @@
 
 ## **About ME :**
 - 🌱 I’m currently learning `Back End (node.js + mongoDB)`
-- 🤔 I’m looking for a `Front-End` Job Opportunity
-- 💬 Ask me about **javaScript / react**
+- 🤔 I’m looking for a `Front-End Job Opportunity`
+- 💬 Ask me about `javaScript / react`
 
 <br />
 
