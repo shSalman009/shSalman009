@@ -1,8 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Salman</h1>
-<h3 align="center">Front End Web Developer With React.js</h3>
+<h3 align="center">Front-End Web Developer With React.js</h3>
 
-- 🌱 I’m currently learning **Back End (node.js + mongoDB)**
+## **About ME :**
+- 🌱 I’m currently learning `Back End (node.js + mongoDB)`
+- 🤔 I’m looking for a `Front-End` Job Opportunity
 - 💬 Ask me about **javaScript / react**
+
 <br />
 
 ## I can code with :
@@ -15,13 +18,13 @@
 
 ## Connect me through :
 <div align="left">
-    <a href="https://github.com/https://github.com/shSalman009" target="_blank">
+    <a href="https://github.com/shSalman009" target="_blank">
         <img
         src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
         alt=github style="margin-bottom: 5px;" />
     </a>
     <a
-        href="https://twitter.com/https://twitter.com/SalmanA40538364"
+        href="https://twitter.com/SalmanA40538364"
         target="_blank"
     >
         <img
@@ -29,7 +32,7 @@
         alt=twitter style="margin-bottom: 5px;" />
     </a>
     <a
-        href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100077283967573"
+        href="https://www.facebook.com/profile.php?id=100077283967573"
         target="_blank"
     >
         <img
@@ -37,7 +40,7 @@
         alt=facebook style="margin-bottom: 5px;" />
     </a>
     <a
-        href="https://instagram.com/https://www.instagram.com/chhhangeee/"
+        href="https://www.instagram.com/chhhangeee/"
         target="_blank"
     >
         <img
@@ -45,7 +48,7 @@
         alt=instagram style="margin-bottom: 5px;" />
     </a>
     <a
-        href="https://stackoverflow.com/users/https://stackoverflow.com/users/17212859/sh-salman?tab=profile"
+        href="https://stackoverflow.com/users/17212859/sh-salman?tab=profile"
         target="_blank"
     >
         <img
@@ -53,7 +56,7 @@
         alt=stackoverflow style="margin-bottom: 5px;" />
     </a>
     <a
-        href="https://linkedin.com/in/https://www.linkedin.com/in/salman-ahmed-77682823b/"
+        href="https://www.linkedin.com/in/salman-ahmed-77682823b/"
         target="_blank"
     >
         <img
