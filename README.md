@@ -43,23 +43,7 @@
         src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white
         alt=twitter style="margin-bottom: 5px;" />
     </a>
-    <!-- <a
-        href="https://www.instagram.com/chhhangeee/"
-        target="_blank"
-    >
-        <img
-        src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white
-        alt=instagram style="margin-bottom: 5px;" />
-    </a> -->
-    <!-- <a
-        href="https://stackoverflow.com/users/17212859/sh-salman?tab=profile"
-        target="_blank"
-    >
-        <img
-        src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white
-        alt=stackoverflow style="margin-bottom: 5px;" />
-    </a> -->
-    <a
+        <a
         href="https://www.linkedin.com/in/salman-ahmed-77682823b/"
         target="_blank"
     >
@@ -75,12 +59,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=shSalman009&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shSalman009&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shSalman009&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 📊 Recent Github Activity:
 
-![](https://github-profile-trophy.vercel.app/?username=shSalman009&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=shSalman009&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shSalman009&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
