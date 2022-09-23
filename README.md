@@ -63,4 +63,10 @@
 
 # 📊 Recent Github Activity:
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shSalman009&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shSalman009&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/><br/>
+
+![Visitor Count](https://profile-counter.glitch.me/harsh2201/count.svg)
+
+<!--START_SECTION:waka-->
+
+![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2040%20mins-blue)
