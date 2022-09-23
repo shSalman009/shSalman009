@@ -65,4 +65,4 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shSalman009&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/><br/>
 
-![Visitor Count](https://profile-counter.glitch.me/shSalman009/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/shSalman009/count.svg) -->
